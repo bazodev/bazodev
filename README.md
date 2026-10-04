@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://github.com/bazodev/open-vids">
-    <img src="assets/openvids.svg" width="840" alt="OpenVids — open-source desktop video editor for macOS that you work in together with AI agents">
+    <img src="https://raw.githubusercontent.com/bazodev/bazodev/output/openvids.svg" width="840" alt="OpenVids — open-source desktop video editor for macOS that you work in together with AI agents">
   </a>
 </p>
 
