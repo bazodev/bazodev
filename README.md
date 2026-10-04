@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  Hi, I'm Roman, a developer based in Germany.<br>
+  Hi, I'm Roman, a developer.<br>
   I build web apps, desktop tools and game tooling, mostly in TypeScript, with a growing focus on AI agents.<br>
   Right now I'm working on <a href="https://github.com/bazodev/open-vids"><b>OpenVids</b></a>, a video editor you edit together with an agent.
 </p>
