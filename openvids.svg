@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="364" viewBox="0 0 840 364" role="img" aria-labelledby="t d">
+<title id="t">OpenVids</title>
+<desc id="d">OpenVids is an open-source desktop video editor for macOS that you work in together with AI agents. Apache-2.0, TypeScript, Apple Silicon.</desc>
+<style>
+.serif{font-family:ui-serif,"New York","Iowan Old Style",Charter,Georgia,"Times New Roman",serif}
+.sans{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif}
+.mono{font-family:ui-monospace,"SF Mono",Menlo,Consolas,"DejaVu Sans Mono",monospace}
+</style>
+<rect x=".5" y=".5" width="839" height="363" rx="15.5" fill="#0b0c0e" stroke="#26282d"/>
+<g transform="translate(40 40) scale(0.06250)"><defs><linearGradient id="g" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#26282D"/><stop offset="1" stop-color="#111215"/></linearGradient><linearGradient id="s" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#FFFFFF" stop-opacity=".16"/><stop offset=".5" stop-color="#FFFFFF" stop-opacity="0"/></linearGradient></defs><rect width="1024" height="1024" rx="230" fill="url(#g)"/><rect x="1.5" y="1.5" width="1021" height="1021" rx="228.5" fill="none" stroke="url(#s)" stroke-width="3"/><g transform="translate(192.00 563.13) scale(6.5357)"><circle cx="22.36" cy="-21.09" r="19.26" fill="none" stroke="#E9EBEE" stroke-width="6.2"/><circle cx="22.36" cy="-21.09" r="6.54" fill="#E9EBEE"/><rect x="0" y="19.20" width="68.32" height="3.6" rx="1.8" fill="#E9EBEE"/><rect x="68.32" y="19.20" width="29.61" height="3.6" rx="1.8" fill="#E9EBEE" fill-opacity=".3"/><path d="M68.32 -13.68 V27.80" stroke="#F48D3C" stroke-width="3.4" stroke-linecap="round" fill="none"/><path d="M52.32 -40.08 L84.32 -40.08 L68.32 -9.48Z" fill="#F48D3C" stroke="#F48D3C" stroke-width="4.2" stroke-linejoin="round"/></g></g>
+<text class="serif" x="122" y="72" font-size="32" fill="#ebecef" letter-spacing="-.3">OpenVids</text>
+<text class="sans" x="123" y="97" font-size="14" fill="#9a9ca3">Open-source video editor for macOS</text>
+<g>
+<rect x=".5" y=".5" width="116" height="26" rx="13" transform="translate(684 44)" fill="#16171a" stroke="#34363b"/>
+<circle cx="702" cy="57.5" r="3.5" fill="#F48D3C"/>
+<text class="mono" x="712" y="61.5" font-size="11" letter-spacing="1" fill="#9a9ca3">EARLY STAGE</text>
+</g>
+<g>
+<title>26 GitHub stars</title>
+<rect x="573.5" y="44.5" width="103" height="26" rx="13" fill="#16171a" stroke="#34363b"/>
+<polygon points="591.00,51.40 592.41,55.06 596.33,55.27 593.28,57.74 594.29,61.53 591.00,59.40 587.71,61.53 588.72,57.74 585.67,55.27 589.59,55.06" fill="#F48D3C"/>
+<text class="mono" x="603.5" y="61.5" font-size="11" letter-spacing="1" fill="#ebecef">26<tspan fill="#9a9ca3"> STARS</tspan></text>
+</g>
+<text class="sans" x="40" y="156" font-size="17" fill="#ebecef">An open-source desktop video editor you work in together with AI agents,</text>
+<text class="sans" x="40" y="182" font-size="17" fill="#9a9ca3">running locally on projects that are just folders of plain files.</text>
+<rect x="40" y="218" width="6" height="6" rx="1.5" fill="#F48D3C"/><text class="sans" x="58" y="226" font-size="14.5" fill="#ebecef"><tspan font-weight="600">Edit by chat</tspan><tspan fill="#9a9ca3"> · Director + specialist agents</tspan></text><rect x="440" y="218" width="6" height="6" rx="1.5" fill="#F48D3C"/><text class="sans" x="458" y="226" font-size="14.5" fill="#ebecef"><tspan font-weight="600">Local analysis</tspan><tspan fill="#9a9ca3"> · transcripts and retakes</tspan></text><rect x="40" y="246" width="6" height="6" rx="1.5" fill="#F48D3C"/><text class="sans" x="58" y="254" font-size="14.5" fill="#ebecef"><tspan font-weight="600">Story mode</tspan><tspan fill="#9a9ca3"> · video as a graph of sections</tspan></text><rect x="440" y="246" width="6" height="6" rx="1.5" fill="#F48D3C"/><text class="sans" x="458" y="254" font-size="14.5" fill="#ebecef"><tspan font-weight="600">Render QA</tspan><tspan fill="#9a9ca3"> · agents check and fix</tspan></text>
+<rect x="40" y="296" width="760" height="2" rx="1" fill="#ebecef" fill-opacity=".12"/>
+<rect x="40" y="296" width="248" height="2" rx="1" fill="#ebecef" fill-opacity=".45"/>
+<path d="M288 291V303" stroke="#F48D3C" stroke-width="1.8" stroke-linecap="round"/>
+<path d="M282.5 284H293.5L288 293Z" fill="#F48D3C" stroke="#F48D3C" stroke-width="2.4" stroke-linejoin="round"/>
+<text class="mono" x="40" y="334" font-size="13" fill="#9a9ca3">macOS · Apple Silicon · Apache-2.0 · TypeScript</text>
+<text class="mono" x="800" y="334" font-size="13" fill="#F48D3C" text-anchor="end">github.com/bazodev/open-vids →</text>
+</svg>
